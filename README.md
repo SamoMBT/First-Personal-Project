@@ -44,4 +44,4 @@ To install the `gator` CLI tool to your `$GOPATH/bin`, run:
 ```bash
 go install [github.com/your-username/gator@latest](https://github.com/your-username/gator@latest)
 
-SamoMBT's version of Boot.dev's Notely app.
+SamoMBT's version of Boot.dev's Notely app..
