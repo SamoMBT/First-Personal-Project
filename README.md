@@ -27,4 +27,19 @@ go build
 go test ./...
 undefined
 
+# Gator - A CLI RSS Aggregator
 
+Gator is a command-line tool written in Go that allows you to aggregate and manage RSS feeds. It uses a PostgreSQL database to store user data, feeds, and posts.
+
+## Prerequisites
+
+Before running Gator, ensure you have the following installed:
+* **Go** (v1.21 or later recommended)
+* **PostgreSQL** (Ensure the service is running)
+
+## Installation
+
+To install the `gator` CLI tool to your `$GOPATH/bin`, run:
+
+```bash
+go install [github.com/your-username/gator@latest](https://github.com/your-username/gator@latest)
